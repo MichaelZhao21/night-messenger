@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "Night Messenger",
+    "version": "1.0",
+
+    "description": "A simple dark theme for Facebook Messenger",
+
+    "icons": {
+        "48": "icons/icon-48.png",
+        "96": "icons/icon-96.png"
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["*://*.messenger.com/*"],
+            "js": ["darkTheme.js"]
+        }
+    ],
+
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "nightmessenger@michaelzhao.xyz"
+        }
+    }
+}
