@@ -6,14 +6,14 @@
     "description": "A simple dark theme for Facebook Messenger",
 
     "icons": {
-        "48": "icons/icon-48.png",
-        "96": "icons/icon-96.png"
+        "48": "icons/night-48.png",
+        "96": "icons/night-96.png"
     },
 
     "content_scripts": [
         {
             "matches": ["*://*.messenger.com/*"],
-            "js": ["darkTheme.js"]
+            "css": ["style.css"]
         }
     ],
 
