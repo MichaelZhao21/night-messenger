@@ -1,63 +1,67 @@
-.rq0escxv  {
-  --card-background: #121212;
-  --comment-background: rgba(255, 255, 255, 0.1);
-  --disabled-button-background: rgba(255, 255, 255, 0.1);
-  --disabled-icon: rgba(132, 132, 132, 0.6);
-  --disabled-text: rgba(132, 132, 132, 0.6);
-  --divider: rgba(255, 255, 255, 0.17);
-  --filter-disabled-icon: brightness(0) invert(0.3);
-  --filter-placeholder-icon: brightness(0) invert(0.4);
-  --filter-primary-icon: brightness(0) invert(0.4);
-  --filter-secondary-icon: brightness(0) invert(0.4);
-  --hosted-view-selected-state: rgba(255, 255, 255, 0.08);
-  --highlight-bg: rgba(255, 255, 255, 0.1);
-  --hover-overlay: rgba(255, 255, 255, 0.1);
-  --media-inner-border: rgba(255, 255, 255, 0.17);
-  --media-outer-border: #000000;
-  --messenger-card-background: #000000;
-  --messenger-reply-background: #262626;
-  --overlay-alpha-80: rgba(0, 0, 0, 0.5);
-  --nav-bar-background-gradient: rgba(0, 0, 0, 0);
-  --placeholder-icon: #848484;
-  --placeholder-text: #848484;
-  --popover-background: #121212;
-  --positive-background: #121212;
-  --primary-deemphasized-button-background: rgba(255, 255, 255, 0.1);
-  --primary-deemphasized-button-pressed: rgba(255, 255, 255, 0.08);
-  --primary-deemphasized-button-pressed-overlay: rgba(255, 255, 255, 0.1);
-  --primary-deemphasized-button-text: --accent;
-  --primary-icon: #d0d0d0;
-  --primary-text: #d0d0d0;
-  --secondary-button-background: rgba(255, 255, 255, 0.1);
-  --secondary-button-pressed: rgba(255, 255, 255, 0.08);
-  --secondary-icon: #848484;
-  --secondary-text: #848484;
-  --shadow-inset: rgba(255, 255, 255, 0.17);
-  --surface-background: #000000;
-  --wash: #262626;
-  --web-wash: #121212;
+.rq0escxv,
+.iqfcb0g7 {
+    --card-background: #121212;
+    --comment-background: rgba(255, 255, 255, 0.1);
+    --disabled-button-background: rgba(255, 255, 255, 0.1);
+    --disabled-icon: rgba(132, 132, 132, 0.6);
+    --disabled-text: rgba(132, 132, 132, 0.6);
+    --divider: rgba(255, 255, 255, 0.17);
+    --filter-disabled-icon: brightness(0) invert(0.3);
+    --filter-placeholder-icon: brightness(0) invert(0.4);
+    --filter-primary-icon: brightness(0) invert(0.4);
+    --filter-secondary-icon: brightness(0) invert(0.4);
+    --hosted-view-selected-state: rgba(255, 255, 255, 0.08);
+    --highlight-bg: rgba(255, 255, 255, 0.1);
+    --hover-overlay: rgba(255, 255, 255, 0.1);
+    --media-inner-border: rgba(255, 255, 255, 0.17);
+    --media-outer-border: #000000;
+    --messenger-card-background: #000000;
+    --messenger-reply-background: #262626;
+    --overlay-alpha-80: rgba(0, 0, 0, 0.5);
+    --nav-bar-background-gradient: rgba(0, 0, 0, 0);
+    --placeholder-icon: #848484;
+    --placeholder-text: #848484;
+    --popover-background: #121212;
+    --positive-background: #121212;
+    --primary-deemphasized-button-background: rgba(255, 255, 255, 0.1);
+    --primary-deemphasized-button-pressed: rgba(255, 255, 255, 0.08);
+    --primary-deemphasized-button-pressed-overlay: rgba(255, 255, 255, 0.1);
+    --primary-deemphasized-button-text: --accent;
+    --primary-icon: #d0d0d0;
+    --primary-text: #d0d0d0;
+    --secondary-button-background: rgba(255, 255, 255, 0.1);
+    --secondary-button-pressed: rgba(255, 255, 255, 0.08);
+    --secondary-icon: #848484;
+    --secondary-text: #848484;
+    --shadow-inset: rgba(255, 255, 255, 0.17);
+    --surface-background: #000000;
+    --wash: #262626;
+    --web-wash: #121212;
 }
 
 .pbevjfx6 {
-  --primary-text: #d0d0d0;
+    --primary-text: #d0d0d0;
 }
 
 .l60d2q6s {
-  --comment-footer-background: rgba(255, 255, 255, 0.1);
+    --comment-footer-background: rgba(255, 255, 255, 0.1);
 }
 
 .nred35xi {
-  --messenger-card-background: #000000;
+    --messenger-card-background: #000000;
 }
 
 .oo9gr5id {
-  --primary-text: #d0d0d0;
+    --primary-text: #d0d0d0;
 }
 
 .ms05siws {
-  fill: #d0d0d0;
+    fill: #d0d0d0;
 }
 
-.np69z8it, .et4y5ytx, .j7g94pet, .b74d5cxt {
-  --card-background: #121212;
+.np69z8it,
+.et4y5ytx,
+.j7g94pet,
+.b74d5cxt {
+    --card-background: #121212;
 }
