@@ -1,5 +1,8 @@
 .rq0escxv,
-.iqfcb0g7 {
+.iqfcb0g7,
+.hybvsw6c,
+.tkr6xdv7,
+.yfudjqg5 {
     --card-background: #121212;
     --comment-background: rgba(255, 255, 255, 0.1);
     --disabled-button-background: rgba(255, 255, 255, 0.1);
@@ -17,6 +20,7 @@
     --media-outer-border: #000000;
     --messenger-card-background: #000000;
     --messenger-reply-background: #262626;
+    --mwp-reply-background-color: #262626;
     --overlay-alpha-80: rgba(0, 0, 0, 0.5);
     --nav-bar-background-gradient: rgba(0, 0, 0, 0);
     --placeholder-icon: #848484;
@@ -64,4 +68,8 @@
 .j7g94pet,
 .b74d5cxt {
     --card-background: #121212;
+}
+
+.q2y6ezfg {
+    background-color: rgba(255, 255, 255, 0.1);
 }
